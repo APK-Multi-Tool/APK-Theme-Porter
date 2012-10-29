@@ -1,0 +1,1 @@
+This is a Standalone Application that allows you to port themes between ROM of any Phone to another Phone without having to spend hours manually moving images as well as other xml files and has many other functions as well
